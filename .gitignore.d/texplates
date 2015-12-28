@@ -7,4 +7,4 @@
 !/.vim/bundle/vim-latex/ftplugin
 !/.vim/bundle/vim-latex/ftplugin/latex-suite
 !/.vim/bundle/vim-latex/ftplugin/latex-suite/templates
-!/.vim/bundle/vim-latex/ftplugin/latex-suite/templates/*.tex
+!/.vim/bundle/vim-latex/ftplugin/latex-suite/templates/*
